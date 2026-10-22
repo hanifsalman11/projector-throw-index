@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "model_name": "Epson Home Cinema 5050UB",
+    "slug": "epson-home-cinema-5050ub-throw-distance-calculator",
+    "title": "Epson Home Cinema 5050UB Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Epson Home Cinema 5050UB throw distance calculator. Calculate exact lens-to-screen distance (between 11.8 ft and 24.8 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.35–2.84:1 Throw",
+    "lumens": 2600,
+    "date": "2026-10-22"
+  },
+  {
+    "model_name": "BenQ TK700STi 4K Gaming",
+    "slug": "benq-tk700sti-4k-gaming-throw-distance-calculator",
+    "title": "BenQ TK700STi 4K Gaming Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive BenQ TK700STi 4K Gaming throw distance calculator. Calculate exact lens-to-screen distance (between 7.8 ft and 9.4 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.9–1.08:1 Throw",
+    "lumens": 3000,
+    "date": "2026-10-22"
+  },
+  {
+    "model_name": "Hisense PX3-Pro TriChroma Laser",
+    "slug": "hisense-px3-pro-trichroma-laser-throw-distance-calculator",
+    "title": "Hisense PX3-Pro TriChroma Laser Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Hisense PX3-Pro TriChroma Laser throw distance calculator. Calculate exact lens-to-screen distance (1.9 ft (23 inches) for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.22:1 UST",
+    "lumens": 3000,
+    "date": "2026-10-22"
+  }
+]
