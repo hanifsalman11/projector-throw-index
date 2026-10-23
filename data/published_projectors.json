@@ -25,5 +25,32 @@
     "throw_ratio_badge": "0.22:1 UST",
     "lumens": 3000,
     "date": "2026-10-22"
+  },
+  {
+    "model_name": "XGIMI Horizon Ultra 4K Dolby Vision",
+    "slug": "xgimi-horizon-ultra-4k-dolby-vision-throw-distance-calculator",
+    "title": "XGIMI Horizon Ultra 4K Dolby Vision Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive XGIMI Horizon Ultra 4K Dolby Vision throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2300,
+    "date": "2026-10-23"
+  },
+  {
+    "model_name": "Epson Pro Cinema LS12000 4K Laser",
+    "slug": "epson-pro-cinema-ls12000-4k-laser-throw-distance-calculator",
+    "title": "Epson Pro Cinema LS12000 4K Laser Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Epson Pro Cinema LS12000 4K Laser throw distance calculator. Calculate exact lens-to-screen distance (between 11.8 ft and 24.8 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.35–2.84:1 Throw",
+    "lumens": 2700,
+    "date": "2026-10-23"
+  },
+  {
+    "model_name": "BenQ HT3560 CinePrime 4K",
+    "slug": "benq-ht3560-cineprime-4k-throw-distance-calculator",
+    "title": "BenQ HT3560 CinePrime 4K Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive BenQ HT3560 CinePrime 4K throw distance calculator. Calculate exact lens-to-screen distance (between 9.8 ft and 12.7 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.13–1.46:1 Throw",
+    "lumens": 2200,
+    "date": "2026-10-23"
   }
 ]
