@@ -52,5 +52,32 @@
     "throw_ratio_badge": "1.13–1.46:1 Throw",
     "lumens": 2200,
     "date": "2026-10-23"
+  },
+  {
+    "model_name": "AWOL Vision LTV-3500 Pro Tri-Laser",
+    "slug": "awol-vision-ltv-3500-pro-tri-laser-throw-distance-calculator",
+    "title": "AWOL Vision LTV-3500 Pro Tri-Laser Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive AWOL Vision LTV-3500 Pro Tri-Laser throw distance calculator. Calculate exact lens-to-screen distance (2.2 ft (26 inches) for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.25:1 UST",
+    "lumens": 3500,
+    "date": "2026-10-23"
+  },
+  {
+    "model_name": "Optoma UHD55 Smart 4K",
+    "slug": "optoma-uhd55-smart-4k-throw-distance-calculator",
+    "title": "Optoma UHD55 Smart 4K Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Optoma UHD55 Smart 4K throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.9 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.21–1.59:1 Throw",
+    "lumens": 3600,
+    "date": "2026-10-23"
+  },
+  {
+    "model_name": "BenQ X3100i 4LED Gaming",
+    "slug": "benq-x3100i-4led-gaming-throw-distance-calculator",
+    "title": "BenQ X3100i 4LED Gaming Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive BenQ X3100i 4LED Gaming throw distance calculator. Calculate exact lens-to-screen distance (between 10.0 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.15–1.5:1 Throw",
+    "lumens": 3300,
+    "date": "2026-10-23"
   }
 ]
