@@ -79,5 +79,32 @@
     "throw_ratio_badge": "1.15–1.5:1 Throw",
     "lumens": 3300,
     "date": "2026-10-23"
+  },
+  {
+    "model_name": "Epson EpiqVision Ultra LS800",
+    "slug": "epson-epiqvision-ultra-ls800-throw-distance-calculator",
+    "title": "Epson EpiqVision Ultra LS800 Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Epson EpiqVision Ultra LS800 throw distance calculator. Calculate exact lens-to-screen distance (1.4 ft (17 inches) for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.16:1 UST",
+    "lumens": 4000,
+    "date": "2026-10-23"
+  },
+  {
+    "model_name": "NexiGo Aurora Pro MKII 4K Laser",
+    "slug": "nexigo-aurora-pro-mkii-4k-laser-throw-distance-calculator",
+    "title": "NexiGo Aurora Pro MKII 4K Laser Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive NexiGo Aurora Pro MKII 4K Laser throw distance calculator. Calculate exact lens-to-screen distance (2.0 ft (24 inches) for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.23:1 UST",
+    "lumens": 2400,
+    "date": "2026-10-23"
+  },
+  {
+    "model_name": "Anker Nebula Cosmos 4K SE",
+    "slug": "anker-nebula-cosmos-4k-se-throw-distance-calculator",
+    "title": "Anker Nebula Cosmos 4K SE Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Anker Nebula Cosmos 4K SE throw distance calculator. Calculate exact lens-to-screen distance (10.5 ft (126 inches) for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.2:1 Throw",
+    "lumens": 1800,
+    "date": "2026-10-23"
   }
 ]
