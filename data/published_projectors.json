@@ -106,5 +106,32 @@
     "throw_ratio_badge": "1.2–1.2:1 Throw",
     "lumens": 1800,
     "date": "2026-10-23"
+  },
+  {
+    "model_name": "ViewSonic PX748-4K High Brightness",
+    "slug": "viewsonic-px748-4k-high-brightness-throw-distance-calculator",
+    "title": "ViewSonic PX748-4K High Brightness Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive ViewSonic PX748-4K High Brightness throw distance calculator. Calculate exact lens-to-screen distance (between 9.8 ft and 12.8 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.13–1.47:1 Throw",
+    "lumens": 4000,
+    "date": "2026-10-23"
+  },
+  {
+    "model_name": "LG CineBeam Q HU710PB 4K Laser",
+    "slug": "lg-cinebeam-q-hu710pb-4k-laser-throw-distance-calculator",
+    "title": "LG CineBeam Q HU710PB 4K Laser Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive LG CineBeam Q HU710PB 4K Laser throw distance calculator. Calculate exact lens-to-screen distance (10.5 ft (126 inches) for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.2:1 Throw",
+    "lumens": 500,
+    "date": "2026-10-23"
+  },
+  {
+    "model_name": "Formovie Theater Premium 4K UST",
+    "slug": "formovie-theater-premium-4k-ust-throw-distance-calculator",
+    "title": "Formovie Theater Premium 4K UST Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Formovie Theater Premium 4K UST throw distance calculator. Calculate exact lens-to-screen distance (1.8 ft (22 inches) for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.21:1 UST",
+    "lumens": 2800,
+    "date": "2026-10-23"
   }
 ]
