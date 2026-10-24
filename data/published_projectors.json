@@ -160,5 +160,32 @@
     "throw_ratio_badge": "1.15–1.5:1 Throw",
     "lumens": 3200,
     "date": "2026-10-24"
+  },
+  {
+    "model_name": "Optoma GT2100HDR Short Throw Laser",
+    "slug": "optoma-gt2100hdr-short-throw-laser-throw-distance-calculator",
+    "title": "Optoma GT2100HDR Short Throw Laser Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Optoma GT2100HDR Short Throw Laser throw distance calculator. Calculate exact lens-to-screen distance (4.3 ft (52 inches) for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.49–0.49:1 Throw",
+    "lumens": 4200,
+    "date": "2026-10-24"
+  },
+  {
+    "model_name": "Epson Home Cinema 3800 4K",
+    "slug": "epson-home-cinema-3800-4k-throw-distance-calculator",
+    "title": "Epson Home Cinema 3800 4K Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Epson Home Cinema 3800 4K throw distance calculator. Calculate exact lens-to-screen distance (between 11.5 ft and 18.7 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.32–2.15:1 Throw",
+    "lumens": 3000,
+    "date": "2026-10-24"
+  },
+  {
+    "model_name": "Valerion VisionMaster Pro 2 Triple Laser",
+    "slug": "valerion-visionmaster-pro-2-triple-laser-throw-distance-calculator",
+    "title": "Valerion VisionMaster Pro 2 Triple Laser Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Valerion VisionMaster Pro 2 Triple Laser throw distance calculator. Calculate exact lens-to-screen distance (between 7.8 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.9–1.5:1 Throw",
+    "lumens": 3000,
+    "date": "2026-10-24"
   }
 ]
