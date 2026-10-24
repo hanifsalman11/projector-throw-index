@@ -133,5 +133,32 @@
     "throw_ratio_badge": "0.21:1 UST",
     "lumens": 2800,
     "date": "2026-10-23"
+  },
+  {
+    "model_name": "Sony VPL-XW5000ES Bravia 4K Laser",
+    "slug": "sony-vpl-xw5000es-bravia-4k-laser-throw-distance-calculator",
+    "title": "Sony VPL-XW5000ES Bravia 4K Laser Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Sony VPL-XW5000ES Bravia 4K Laser throw distance calculator. Calculate exact lens-to-screen distance (between 12.0 ft and 19.3 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.38–2.21:1 Throw",
+    "lumens": 2000,
+    "date": "2026-10-24"
+  },
+  {
+    "model_name": "JVC DLA-NP5 D-ILA 4K Home Theater",
+    "slug": "jvc-dla-np5-d-ila-4k-home-theater-throw-distance-calculator",
+    "title": "JVC DLA-NP5 D-ILA 4K Home Theater Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive JVC DLA-NP5 D-ILA 4K Home Theater throw distance calculator. Calculate exact lens-to-screen distance (between 12.5 ft and 25.5 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.43–2.92:1 Throw",
+    "lumens": 1900,
+    "date": "2026-10-24"
+  },
+  {
+    "model_name": "BenQHT4550i 4LED Home Theater",
+    "slug": "benqht4550i-4led-home-theater-throw-distance-calculator",
+    "title": "BenQHT4550i 4LED Home Theater Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive BenQHT4550i 4LED Home Theater throw distance calculator. Calculate exact lens-to-screen distance (between 10.0 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.15–1.5:1 Throw",
+    "lumens": 3200,
+    "date": "2026-10-24"
   }
 ]
