@@ -214,5 +214,32 @@
     "throw_ratio_badge": "1.12–1.46:1 Throw",
     "lumens": 3500,
     "date": "2026-10-24"
+  },
+  {
+    "model_name": "ViewSonic X2-4K Xbox Certified",
+    "slug": "viewsonic-x2-4k-xbox-certified-throw-distance-calculator",
+    "title": "ViewSonic X2-4K Xbox Certified Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive ViewSonic X2-4K Xbox Certified throw distance calculator. Calculate exact lens-to-screen distance (between 6.0 ft and 7.2 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.69–0.83:1 Throw",
+    "lumens": 2900,
+    "date": "2026-10-24"
+  },
+  {
+    "model_name": "Hisense C2 Ultra TriChroma Gimbal",
+    "slug": "hisense-c2-ultra-trichroma-gimbal-throw-distance-calculator",
+    "title": "Hisense C2 Ultra TriChroma Gimbal Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Hisense C2 Ultra TriChroma Gimbal throw distance calculator. Calculate exact lens-to-screen distance (between 7.8 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.9–1.5:1 Throw",
+    "lumens": 3000,
+    "date": "2026-10-24"
+  },
+  {
+    "model_name": "Epson Home Cinema 2350 Smart Gaming",
+    "slug": "epson-home-cinema-2350-smart-gaming-throw-distance-calculator",
+    "title": "Epson Home Cinema 2350 Smart Gaming Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Epson Home Cinema 2350 Smart Gaming throw distance calculator. Calculate exact lens-to-screen distance (between 11.5 ft and 18.5 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.32–2.12:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-24"
   }
 ]
