@@ -187,5 +187,32 @@
     "throw_ratio_badge": "0.9–1.5:1 Throw",
     "lumens": 3000,
     "date": "2026-10-24"
+  },
+  {
+    "model_name": "Samsung The Premiere LSP9T 4K Laser",
+    "slug": "samsung-the-premiere-lsp9t-4k-laser-throw-distance-calculator",
+    "title": "Samsung The Premiere LSP9T 4K Laser Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Samsung The Premiere LSP9T 4K Laser throw distance calculator. Calculate exact lens-to-screen distance (1.7 ft (20 inches) for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.19:1 UST",
+    "lumens": 2800,
+    "date": "2026-10-24"
+  },
+  {
+    "model_name": "JMGO N1S Ultra 4K Triple Laser",
+    "slug": "jmgo-n1s-ultra-4k-triple-laser-throw-distance-calculator",
+    "title": "JMGO N1S Ultra 4K Triple Laser Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive JMGO N1S Ultra 4K Triple Laser throw distance calculator. Calculate exact lens-to-screen distance (10.5 ft (126 inches) for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.2:1 Throw",
+    "lumens": 3000,
+    "date": "2026-10-24"
+  },
+  {
+    "model_name": "BenQ TH685P 120Hz Gaming",
+    "slug": "benq-th685p-120hz-gaming-throw-distance-calculator",
+    "title": "BenQ TH685P 120Hz Gaming Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive BenQ TH685P 120Hz Gaming throw distance calculator. Calculate exact lens-to-screen distance (between 9.8 ft and 12.7 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.12–1.46:1 Throw",
+    "lumens": 3500,
+    "date": "2026-10-24"
   }
 ]
