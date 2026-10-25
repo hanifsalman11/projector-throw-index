@@ -241,5 +241,32 @@
     "throw_ratio_badge": "1.32–2.12:1 Throw",
     "lumens": 2800,
     "date": "2026-10-24"
+  },
+  {
+    "model_name": "Optoma UHZ50 Smart 4K Laser",
+    "slug": "optoma-uhz50-smart-4k-laser-throw-distance-calculator",
+    "title": "Optoma UHZ50 Smart 4K Laser Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Optoma UHZ50 Smart 4K Laser throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.9 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.21–1.59:1 Throw",
+    "lumens": 3000,
+    "date": "2026-10-25"
+  },
+  {
+    "model_name": "BenQ TK860i 4K HDR Sports",
+    "slug": "benq-tk860i-4k-hdr-sports-throw-distance-calculator",
+    "title": "BenQ TK860i 4K HDR Sports Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive BenQ TK860i 4K HDR Sports throw distance calculator. Calculate exact lens-to-screen distance (between 9.8 ft and 12.8 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.13–1.47:1 Throw",
+    "lumens": 3300,
+    "date": "2026-10-25"
+  },
+  {
+    "model_name": "LG ProBeam BU53RG 4K Short Throw",
+    "slug": "lg-probeam-bu53rg-4k-short-throw-throw-distance-calculator",
+    "title": "LG ProBeam BU53RG 4K Short Throw Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive LG ProBeam BU53RG 4K Short Throw throw distance calculator. Calculate exact lens-to-screen distance (between 8.2 ft and 9.9 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "0.94–1.14:1 Throw",
+    "lumens": 5000,
+    "date": "2026-10-25"
   }
 ]
