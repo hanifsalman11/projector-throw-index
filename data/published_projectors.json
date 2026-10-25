@@ -322,5 +322,32 @@
     "throw_ratio_badge": "1.2–1.5:1 Throw",
     "lumens": 2800,
     "date": "2026-10-25"
+  },
+  {
+    "model_name": "Epson  Ratio",
+    "slug": "epson-ratio-throw-distance-calculator",
+    "title": "Epson  Ratio Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Epson  Ratio throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-25"
+  },
+  {
+    "model_name": "Benq  Ratio",
+    "slug": "benq-ratio-throw-distance-calculator",
+    "title": "Benq  Ratio Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Benq  Ratio throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-25"
+  },
+  {
+    "model_name": "Benq Tk710",
+    "slug": "benq-tk710-throw-distance-calculator",
+    "title": "Benq Tk710 Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Benq Tk710 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-25"
   }
 ]
