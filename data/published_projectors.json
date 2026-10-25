@@ -295,5 +295,32 @@
     "throw_ratio_badge": "1.2–1.5:1 Throw",
     "lumens": 2800,
     "date": "2026-10-25"
+  },
+  {
+    "model_name": "Epson    Europe",
+    "slug": "epson-europe-throw-distance-calculator",
+    "title": "Epson    Europe Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Epson    Europe throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-25"
+  },
+  {
+    "model_name": "Epson    Australia",
+    "slug": "epson-australia-throw-distance-calculator",
+    "title": "Epson    Australia Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Epson    Australia throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-25"
+  },
+  {
+    "model_name": "Epson    Uk",
+    "slug": "epson-uk-throw-distance-calculator",
+    "title": "Epson    Uk Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Epson    Uk throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-25"
   }
 ]
