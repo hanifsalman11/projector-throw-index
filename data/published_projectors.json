@@ -430,5 +430,32 @@
     "throw_ratio_badge": "1.2–1.5:1 Throw",
     "lumens": 2800,
     "date": "2026-10-26"
+  },
+  {
+    "model_name": "Optoma Uhd35+",
+    "slug": "optoma-uhd35-throw-distance-calculator",
+    "title": "Optoma Uhd35+ Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Optoma Uhd35+ throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-27"
+  },
+  {
+    "model_name": "Optoma Gt2000Hdr",
+    "slug": "optoma-gt2000hdr-throw-distance-calculator",
+    "title": "Optoma Gt2000Hdr Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Optoma Gt2000Hdr throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-27"
+  },
+  {
+    "model_name": "Optoma Hd39Hdr",
+    "slug": "optoma-hd39hdr-throw-distance-calculator",
+    "title": "Optoma Hd39Hdr Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Optoma Hd39Hdr throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-27"
   }
 ]
