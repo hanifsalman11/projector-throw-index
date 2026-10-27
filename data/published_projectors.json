@@ -511,5 +511,32 @@
     "throw_ratio_badge": "1.2–1.5:1 Throw",
     "lumens": 2800,
     "date": "2026-10-27"
+  },
+  {
+    "model_name": "Hisense C1",
+    "slug": "hisense-c1-throw-distance-calculator",
+    "title": "Hisense C1 Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Hisense C1 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-27"
+  },
+  {
+    "model_name": "Hisense Pl2",
+    "slug": "hisense-pl2-throw-distance-calculator",
+    "title": "Hisense Pl2 Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Hisense Pl2 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-27"
+  },
+  {
+    "model_name": "Hisense Px3",
+    "slug": "hisense-px3-throw-distance-calculator",
+    "title": "Hisense Px3 Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Hisense Px3 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-27"
   }
 ]
