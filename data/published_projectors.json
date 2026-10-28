@@ -592,5 +592,32 @@
     "throw_ratio_badge": "1.2–1.5:1 Throw",
     "lumens": 2800,
     "date": "2026-10-28"
+  },
+  {
+    "model_name": "Xgimi Horizon",
+    "slug": "xgimi-horizon-throw-distance-calculator",
+    "title": "Xgimi Horizon Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Xgimi Horizon throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-28"
+  },
+  {
+    "model_name": "Xgimi Titan",
+    "slug": "xgimi-titan-throw-distance-calculator",
+    "title": "Xgimi Titan Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Xgimi Titan throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-28"
+  },
+  {
+    "model_name": "Xgimi Halo+",
+    "slug": "xgimi-halo-throw-distance-calculator",
+    "title": "Xgimi Halo+ Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Xgimi Halo+ throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-28"
   }
 ]

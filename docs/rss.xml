@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/projector-throw-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Xgimi Halo+ Throw Distance & Screen Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/projector-throw-index/xgimi-halo-throw-distance-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/projector-throw-index/xgimi-halo-throw-distance-calculator.html</guid>
+      <description>Interactive Xgimi Halo+ throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
+    </item>
+    <item>
+      <title>Xgimi Titan Throw Distance & Screen Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/projector-throw-index/xgimi-titan-throw-distance-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/projector-throw-index/xgimi-titan-throw-distance-calculator.html</guid>
+      <description>Interactive Xgimi Titan throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
+    </item>
+    <item>
+      <title>Xgimi Horizon Throw Distance & Screen Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/projector-throw-index/xgimi-horizon-throw-distance-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/projector-throw-index/xgimi-horizon-throw-distance-calculator.html</guid>
+      <description>Interactive Xgimi Horizon throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
+    </item>
+    <item>
       <title>Xgimi  Ratio Throw Distance & Screen Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/projector-throw-index/xgimi-ratio-throw-distance-calculator.html</link>
       <guid>https://hanifsalman11.github.io/projector-throw-index/xgimi-ratio-throw-distance-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/projector-throw-index/benq-tk700-throw-distance-calculator.html</link>
       <guid>https://hanifsalman11.github.io/projector-throw-index/benq-tk700-throw-distance-calculator.html</guid>
       <description>Interactive Benq Tk700 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
-    </item>
-    <item>
-      <title>Benq Tk710 Throw Distance & Screen Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/projector-throw-index/benq-tk710-throw-distance-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/projector-throw-index/benq-tk710-throw-distance-calculator.html</guid>
-      <description>Interactive Benq Tk710 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
-    </item>
-    <item>
-      <title>Benq  Ratio Throw Distance & Screen Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/projector-throw-index/benq-ratio-throw-distance-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/projector-throw-index/benq-ratio-throw-distance-calculator.html</guid>
-      <description>Interactive Benq  Ratio throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
-    </item>
-    <item>
-      <title>Epson  Ratio Throw Distance & Screen Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/projector-throw-index/epson-ratio-throw-distance-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/projector-throw-index/epson-ratio-throw-distance-calculator.html</guid>
-      <description>Interactive Epson  Ratio throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
     </item>
   </channel>
 </rss>
