@@ -619,5 +619,32 @@
     "throw_ratio_badge": "1.2–1.5:1 Throw",
     "lumens": 2800,
     "date": "2026-10-28"
+  },
+  {
+    "model_name": "Xgimi Projector",
+    "slug": "xgimi-projector-throw-distance-calculator",
+    "title": "Xgimi Projector Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Xgimi Projector throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-29"
+  },
+  {
+    "model_name": "Xgimi Ultra",
+    "slug": "xgimi-ultra-throw-distance-calculator",
+    "title": "Xgimi Ultra Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Xgimi Ultra throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-29"
+  },
+  {
+    "model_name": "Xgimi Elfin",
+    "slug": "xgimi-elfin-throw-distance-calculator",
+    "title": "Xgimi Elfin Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Xgimi Elfin throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-29"
   }
 ]
