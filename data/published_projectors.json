@@ -754,5 +754,32 @@
     "throw_ratio_badge": "1.2–1.5:1 Throw",
     "lumens": 2800,
     "date": "2026-10-30"
+  },
+  {
+    "model_name": "Awol Vision Ltv 3500 Pro",
+    "slug": "awol-vision-ltv-3500-pro-throw-distance-calculator",
+    "title": "Awol Vision Ltv 3500 Pro Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Awol Vision Ltv 3500 Pro throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-30"
+  },
+  {
+    "model_name": "Fog Visibility",
+    "slug": "fog-visibility-throw-distance-calculator",
+    "title": "Fog Visibility Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Fog Visibility throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-30"
+  },
+  {
+    "model_name": "Near  Vision",
+    "slug": "near-vision-throw-distance-calculator",
+    "title": "Near  Vision Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Near  Vision throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-30"
   }
 ]
