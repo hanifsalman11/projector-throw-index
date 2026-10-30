@@ -700,5 +700,32 @@
     "throw_ratio_badge": "1.2–1.5:1 Throw",
     "lumens": 2800,
     "date": "2026-10-29"
+  },
+  {
+    "model_name": "Viewsonic Ls711Hd",
+    "slug": "viewsonic-ls711hd-throw-distance-calculator",
+    "title": "Viewsonic Ls711Hd Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Viewsonic Ls711Hd throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-30"
+  },
+  {
+    "model_name": "Viewsonic Px701",
+    "slug": "viewsonic-px701-throw-distance-calculator",
+    "title": "Viewsonic Px701 Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Viewsonic Px701 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-30"
+  },
+  {
+    "model_name": "Viewsonic Pa503W",
+    "slug": "viewsonic-pa503w-throw-distance-calculator",
+    "title": "Viewsonic Pa503W Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Viewsonic Pa503W throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-30"
   }
 ]
