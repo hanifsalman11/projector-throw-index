@@ -727,5 +727,32 @@
     "throw_ratio_badge": "1.2–1.5:1 Throw",
     "lumens": 2800,
     "date": "2026-10-30"
+  },
+  {
+    "model_name": "Awol Vision Aetherion Max",
+    "slug": "awol-vision-aetherion-max-throw-distance-calculator",
+    "title": "Awol Vision Aetherion Max Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Awol Vision Aetherion Max throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-30"
+  },
+  {
+    "model_name": "Awol Vision Ltv 2500",
+    "slug": "awol-vision-ltv-2500-throw-distance-calculator",
+    "title": "Awol Vision Ltv 2500 Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Awol Vision Ltv 2500 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-30"
+  },
+  {
+    "model_name": "Awol Vision Aetherion  Ratio",
+    "slug": "awol-vision-aetherion-ratio-throw-distance-calculator",
+    "title": "Awol Vision Aetherion  Ratio Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Awol Vision Aetherion  Ratio throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-10-30"
   }
 ]
