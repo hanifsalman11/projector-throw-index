@@ -799,5 +799,14 @@
     "throw_ratio_badge": "1.2–1.5:1 Throw",
     "lumens": 2800,
     "date": "2026-10-31"
+  },
+  {
+    "model_name": "BenQ HT4550i 4LED Home Theater",
+    "slug": "benq-ht4550i-4led-home-theater-throw-distance-calculator",
+    "title": "BenQ HT4550i 4LED Home Theater Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive BenQ HT4550i 4LED Home Theater throw distance calculator. Calculate exact lens-to-screen distance (between 10.0 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.15–1.5:1 Throw",
+    "lumens": 3200,
+    "date": "2026-11-02"
   }
 ]

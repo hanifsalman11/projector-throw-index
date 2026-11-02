@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/projector-throw-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>BenQ HT4550i 4LED Home Theater Throw Distance & Screen Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/projector-throw-index/benq-ht4550i-4led-home-theater-throw-distance-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/projector-throw-index/benq-ht4550i-4led-home-theater-throw-distance-calculator.html</guid>
+      <description>Interactive BenQ HT4550i 4LED Home Theater throw distance calculator. Calculate exact lens-to-screen distance (between 10.0 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
+    </item>
+    <item>
       <title>Loss Of  Vision Throw Distance & Screen Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/projector-throw-index/loss-of-vision-throw-distance-calculator.html</link>
       <guid>https://hanifsalman11.github.io/projector-throw-index/loss-of-vision-throw-distance-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/projector-throw-index/benq-tk705i-throw-distance-calculator.html</link>
       <guid>https://hanifsalman11.github.io/projector-throw-index/benq-tk705i-throw-distance-calculator.html</guid>
       <description>Interactive Benq Tk705I throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
-    </item>
-    <item>
-      <title>Hisense Px3 Throw Distance & Screen Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/projector-throw-index/hisense-px3-throw-distance-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/projector-throw-index/hisense-px3-throw-distance-calculator.html</guid>
-      <description>Interactive Hisense Px3 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
     </item>
   </channel>
 </rss>
