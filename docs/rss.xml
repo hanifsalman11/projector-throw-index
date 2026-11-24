@@ -7,6 +7,18 @@
     <atom:link href="https://hanifsalman11.github.io/projector-throw-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Viewsonic Ps600W Throw Distance & Screen Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/projector-throw-index/viewsonic-ps600w-throw-distance-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/projector-throw-index/viewsonic-ps600w-throw-distance-calculator.html</guid>
+      <description>Interactive Viewsonic Ps600W throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
+    </item>
+    <item>
+      <title>Optoma Pk52 Throw Distance & Screen Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/projector-throw-index/optoma-pk52-throw-distance-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/projector-throw-index/optoma-pk52-throw-distance-calculator.html</guid>
+      <description>Interactive Optoma Pk52 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
+    </item>
+    <item>
       <title>BenQ HT4550i 4LED Home Theater Throw Distance & Screen Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/projector-throw-index/benq-ht4550i-4led-home-theater-throw-distance-calculator.html</link>
       <guid>https://hanifsalman11.github.io/projector-throw-index/benq-ht4550i-4led-home-theater-throw-distance-calculator.html</guid>
@@ -173,18 +185,6 @@
       <link>https://hanifsalman11.github.io/projector-throw-index/hisense-xr10-throw-distance-calculator.html</link>
       <guid>https://hanifsalman11.github.io/projector-throw-index/hisense-xr10-throw-distance-calculator.html</guid>
       <description>Interactive Hisense Xr10 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
-    </item>
-    <item>
-      <title>Optoma Uhz66 Throw Distance & Screen Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/projector-throw-index/optoma-uhz66-throw-distance-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/projector-throw-index/optoma-uhz66-throw-distance-calculator.html</guid>
-      <description>Interactive Optoma Uhz66 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
-    </item>
-    <item>
-      <title>Benq Tk705I Throw Distance & Screen Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/projector-throw-index/benq-tk705i-throw-distance-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/projector-throw-index/benq-tk705i-throw-distance-calculator.html</guid>
-      <description>Interactive Benq Tk705I throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
     </item>
   </channel>
 </rss>

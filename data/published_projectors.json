@@ -808,5 +808,23 @@
     "throw_ratio_badge": "1.15–1.5:1 Throw",
     "lumens": 3200,
     "date": "2026-11-02"
+  },
+  {
+    "model_name": "Optoma Pk52",
+    "slug": "optoma-pk52-throw-distance-calculator",
+    "title": "Optoma Pk52 Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Optoma Pk52 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-11-24"
+  },
+  {
+    "model_name": "Viewsonic Ps600W",
+    "slug": "viewsonic-ps600w-throw-distance-calculator",
+    "title": "Viewsonic Ps600W Throw Distance & Screen Size Calculator (2026)",
+    "description": "Interactive Viewsonic Ps600W throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120\"), ceiling mount offset, and ALR screen size.",
+    "throw_ratio_badge": "1.2–1.5:1 Throw",
+    "lumens": 2800,
+    "date": "2026-11-24"
   }
 ]
