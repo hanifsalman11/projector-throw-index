@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/projector-throw-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Xgimi Aura Throw Distance & Screen Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/projector-throw-index/xgimi-aura-throw-distance-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/projector-throw-index/xgimi-aura-throw-distance-calculator.html</guid>
+      <description>Interactive Xgimi Aura throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
+    </item>
+    <item>
       <title>Viewsonic Ps600W Throw Distance & Screen Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/projector-throw-index/viewsonic-ps600w-throw-distance-calculator.html</link>
       <guid>https://hanifsalman11.github.io/projector-throw-index/viewsonic-ps600w-throw-distance-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/projector-throw-index/hisense-c3-throw-distance-calculator.html</link>
       <guid>https://hanifsalman11.github.io/projector-throw-index/hisense-c3-throw-distance-calculator.html</guid>
       <description>Interactive Hisense C3 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
-    </item>
-    <item>
-      <title>Hisense Xr10 Throw Distance & Screen Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/projector-throw-index/hisense-xr10-throw-distance-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/projector-throw-index/hisense-xr10-throw-distance-calculator.html</guid>
-      <description>Interactive Hisense Xr10 throw distance calculator. Calculate exact lens-to-screen distance (between 10.5 ft and 13.1 ft for 120"), ceiling mount offset, and ALR screen size.</description>
     </item>
   </channel>
 </rss>
